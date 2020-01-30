@@ -2,6 +2,34 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - DoWhileDemo",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.DoWhileDemo",
+         "projectName": "test-GMITNathan_234f17"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - FibonacciWhileLoop",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.FibonacciWhileLoop",
+         "projectName": "test-GMITNathan_234f17"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - FibonacciForLoop",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.FibonacciForLoop",
+         "projectName": "test-GMITNathan_234f17"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Fibonacci",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.Fibonacci",
+         "projectName": "test-GMITNathan_234f17"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - ScanFlow",
          "request": "launch",
          "mainClass": "ie.gmit.scannerpack.ScanFlow",
