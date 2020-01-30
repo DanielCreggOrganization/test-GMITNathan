@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - ScanFlow",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.ScanFlow",
+         "projectName": "test-GMITNathan_234f17"
+      }
+   ]
+}
